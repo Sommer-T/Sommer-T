@@ -2,7 +2,7 @@
 
 > 🧠 Lifelong learner | 💻 Computer Science Student (Graduating 2026) | 🐍 Aspiring Software Engineer  
 
-![100 Days of Python Banner](https://github.com/Sommer-T/Python-100-Days-of-Coding/blob/main/banner.png)
+![Profile Banner](https://github.com/Sommer-T/Sommer-T/blob/main/banner.png)
 
 Welcome to my GitHub profile — where I’m building consistency, confidence, and real-world coding skills.  
 I’m currently documenting my progress through **Dr. Angela Yu’s “100 Days of Python” Bootcamp**, one day and one project at a time.
