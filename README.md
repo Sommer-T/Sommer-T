@@ -1,61 +1,73 @@
-# 👋 Hi, I'm Sommer T.
+# 👋 Hi, I'm Sommer Turner
 
-> 🧠 Lifelong learner | 💻 Computer Science Student (Graduating 2026) | 🐍 Aspiring Software Engineer  
+> 🧠 Lifelong learner | 💻 Software Engineer in the Making | 🐍 Python · Flask · REST APIs · Automation
 
 ![Profile Banner](https://github.com/Sommer-T/Sommer-T/blob/main/banner.png)
 
-Welcome to my GitHub profile — where I’m building consistency, confidence, and real-world coding skills.  
-I’m currently documenting my progress through **Dr. Angela Yu’s “100 Days of Python” Bootcamp**, one day and one project at a time.
+Welcome to my GitHub — where I build real things for real people, and document every step of becoming the engineer I already think like.
 
 ---
 
-## 🚀 Current Focus
-🎯 **100 Days of Code: Python Pro Bootcamp**  
-🧩 Daily hands-on Python projects  
-🛠️ Documented growth, visual notes, and reflections  
+## 🚀 What I'm Building Right Now
 
-📍 [Explore my active project → Python 100 Days of Coding](https://github.com/Sommer-T/Python-100-Days-of-Coding)
+### 🦸🏾 Hero Academy *(In Development — Launching April 29, 2026)*
+A full-stack educational web app built for my grandson Carlo, a gifted 10-year-old who needed something better than flat math drills. Features a math challenge system with XP and unlockable powers, and interactive story missions framed as hero journals.
+Built with Python, Flask, JavaScript, HTML, and CSS.
+👉 [View the project](https://github.com/Sommer-T/hero-academy)
+
+### 🐍 100 Days of Python *(Active)*
+Working through Dr. Angela Yu's Python Pro Bootcamp — automation tools, Flask web apps, REST API integrations, CLI applications, and more. All code pushed here daily.
+👉 [View the repository](https://github.com/Sommer-T/Python-100-Days-of-Coding)
+
+### 🌐 SommerTurner.dev *(Coming Soon)*
+Personal portfolio site built in HTML, CSS, and JavaScript — showcasing projects, career narrative, and technical growth.
 
 ---
 
 ## 🌟 My Goals
-- Master Python fundamentals and software engineering principles  
-- Build a strong, practical portfolio before graduation  
-- Land my first software engineering role in 2026  
+
+- Ship Hero Academy and make Carlo's jaw drop on April 29th 🦸🏾
+- Land my first Software Engineering role in 2026
+- Build a portfolio that shows I think like a product engineer — problem first, features second
 
 ---
 
-## 🧠 What I’m Learning
-| Topic | Description | Tools |
-|:--|:--|:--|
-| Python Fundamentals | Variables, loops, functions, OOP | 🐍 |
-| Web Development | Flask, REST APIs | 🌐 |
-| Data Analysis | Pandas, NumPy | 📊 |
-| Automation | Scripts & utilities | ⚙️ |
-| CS Foundations | Algorithms, data structures | 🧮 |
+## 🧠 What I'm Learning
+
+| Topic | Tools |
+|:--|:--|
+| Python — Fundamentals through Advanced | 🐍 |
+| Web Development | Flask, Jinja2, HTML, CSS, JavaScript |
+| REST APIs | Requests, Flask-RESTful |
+| Automation | Python scripts, workflow tools |
+| Data Structures & Algorithms | LeetCode study plan — active |
+| CS Foundations | B.S. Computer Science, CTU — Nov 2026 |
 
 ---
 
-## 🧰 Tech Toolbox
-💻 Python • HTML • CSS • Flask • Git/GitHub • VS Code • Linux CLI  
+## 🧰 Tech Stack
+
+Python · Flask · JavaScript · HTML · CSS · Git · GitHub · REST APIs · Jinja2 · VS Code · Azure · Salesforce · ServiceNow · JIRA
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sommer-turner-17256110)  
-- 💬 Discord: **sommer2662**  
-- 🧵 [100 Days of Python Repository](https://github.com/Sommer-T/Python-100-Days-of-Coding)  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sommer-turner-17256110)
+- 💬 Discord: **sommer2662**
 
 ---
 
-### 💡 Motto
-> “Consistency is my superpower. Every day, one more step toward mastery.”  
+### 💡 How I Think About Engineering
+
+> Start with the real problem. Then build something thoughtful that helps solve it.
 
 ---
 
 ### ✨ Fun Fact
-When I’m not coding, I’m visualizing — tables, arrows, flowcharts, or mind maps — anything that turns abstract code into something I can *see*.
+
+When I'm not coding, I'm visualizing — tables, arrows, flowcharts, or mind maps — anything that turns abstract code into something I can *see*.
 
 ---
 
-*(Last updated: November 11, 2025)*
+*(Last updated: April 17, 2026)*
