@@ -1,22 +1,32 @@
-# 👋 Hi, I'm Sommer Turner
+# 👋🏾 Hi, I’m Sommer Turner — a future software engineer building skill, momentum, and meaningful products one day at a time.
 
 > 🧠 Lifelong learner | 💻 Software Engineer in the Making | 🐍 Python · Flask · REST APIs · Automation
 
 ![Profile Banner](https://github.com/Sommer-T/Sommer-T/blob/main/banner.png)
 
-Welcome to my GitHub — where I build real things for real people, and document every step of becoming the engineer I already think like.
+Welcome to my GitHub — where I build real things for real people and document every step of becoming the engineer I already think like one.
 
 ---
 
 ## 🚀 What I'm Building Right Now
 
 ### 🦸🏾 Hero Academy *(In Development — Launching April 29, 2026)*
-A full-stack educational web app built for my grandson Carlo, a gifted 10-year-old who needed something better than flat math drills. Features a math challenge system with XP and unlockable powers, and interactive story missions framed as hero journals.
+I’m building a full-stack educational web app for my grandson Carlo — a gifted 10-year-old who deserves more than flat math drills.
+
+Hero Academy combines:
+
+- ⚡ Math challenges with XP and unlockable powers  
+- 📖 Interactive story missions told through hero journals  
+- 🧠 Meaningful learning designed to stretch gifted minds  
+- 🎮 Fun, motivation, and progress through play  
+
 Built with Python, Flask, JavaScript, HTML, and CSS.
+
+Created with purpose, love, and the belief that children should see themselves as the heroes of their own learning journey.
 👉 [View the project](https://github.com/Sommer-T/hero-academy)
 
 ### 🐍 100 Days of Python *(Active)*
-Working through Dr. Angela Yu's Python Pro Bootcamp — automation tools, Flask web apps, REST API integrations, CLI applications, and more. All code pushed here daily.
+Working through Dr. Angela Yu's Python Pro Bootcamp — automation tools, Flask web apps, REST API integrations, CLI applications, and more. All code is pushed here.
 👉 [View the repository](https://github.com/Sommer-T/Python-100-Days-of-Coding)
 
 ### 🌐 SommerTurner.dev *(Coming Soon)*
@@ -70,4 +80,4 @@ When I'm not coding, I'm visualizing — tables, arrows, flowcharts, or mind map
 
 ---
 
-*(Last updated: April 17, 2026)*
+*(Last updated: April 28, 2026)*
