@@ -4,7 +4,7 @@
 
 ![Profile Banner](https://github.com/Sommer-T/Sommer-T/blob/main/banner.png)
 
-Welcome to my GitHub — where I build real things for real people and document every step of becoming the engineer I already think like one.
+Welcome to my GitHub — where I build real things for real people and document every step of becoming the engineer I already think like. 
 
 ---
 
