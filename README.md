@@ -12,7 +12,7 @@ I'm building backend systems, automation tools, and educational software while s
 
 ### Hero Academy
 
-Hero Academy is a Flask-based educational platform designed to help children build confidence through mastery-based learning, game mechanics, and thoughtful coaching.
+Hero Academy is a private Flask-based educational platform designed to help children build confidence through mastery-based learning, game mechanics, and thoughtful coaching.
 
 Current focus areas include:
 
@@ -25,7 +25,7 @@ Current focus areas include:
 
 Built with Python, Flask, SQLite, Jinja templates, HTML, CSS, JavaScript, Git, and GitHub.
 
-[View Hero Academy](https://github.com/Sommer-T/hero-academy)
+A public project case study or sanitized showcase repository is planned so recruiters can review the architecture and product thinking without exposing private learner details.
 
 ### Backend Skill Building
 
