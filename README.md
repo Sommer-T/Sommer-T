@@ -25,7 +25,7 @@ Current focus areas include:
 
 Built with Python, Flask, SQLite, Jinja templates, HTML, CSS, JavaScript, Git, and GitHub.
 
-A public project case study or sanitized showcase repository is planned so recruiters can review the architecture and product thinking without exposing private learner details.
+The source code and repository remain private. I mention the project here only as context for the kind of backend, educational technology, and product work I am building.
 
 ### Backend Skill Building
 
