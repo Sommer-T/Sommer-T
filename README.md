@@ -37,6 +37,8 @@ I'm using Boot.dev as a focused backend development lab while continuing to buil
 - Data structures and algorithms
 - Testing, maintainability, and version control
 
+[View my public Boot.dev backend practice repo](https://github.com/Sommer-T/bootdev-backend-practice)
+
 ### Automation and Workflow Systems
 
 I also build automation workflows and operational tools using Python, n8n, AI-assisted systems, and structured project workflows. These projects connect my IT background with the software engineering work I am growing into now.
@@ -61,7 +63,7 @@ I also build automation workflows and operational tools using Python, n8n, AI-as
 
 My GitHub reflects a shift from tutorial-based learning into real system building.
 
-Earlier learning projects helped me build consistency and confidence. Today, my main focus is building practical software: Hero Academy, backend practice projects, automation systems, and tools that solve real problems.
+Earlier learning projects helped me build consistency and confidence. Today, my public GitHub highlights backend practice, portfolio work, algorithm practice, and learning archives while private projects remain private.
 
 ---
 
